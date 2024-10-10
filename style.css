@@ -1,0 +1,32 @@
+body {
+    font-family: "Ledger";
+    padding: 0;
+    margin: 0;
+    border: 0;
+    background-color: #CDE6F5;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #707078;
+    height: 100px;
+    padding-left: 50px;
+    color: #CDE6F5;
+}
+nav h1 {
+    font-size: 36px;
+}
+nav ul {
+    display: flex;
+    list-style: none;
+}
+nav li {
+    font-size: 30px;
+    margin: 15px;
+}
+nav a {
+    text-decoration: none;
+    color: #CDE6F5;
+}
