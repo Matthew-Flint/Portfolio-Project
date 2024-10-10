@@ -5,13 +5,7 @@ body {
     border: 0;
     background-color: #CDE6F5;
 }
-main {
-    padding: 20px;
-    text-align: left;
-}
-main p {
-    font-size: 24px;
-}
+
 nav {
     display: flex;
     align-items: center;
@@ -39,4 +33,15 @@ nav a {
 }
 nav a:hover {
     color: red;
+}
+main {
+    padding: 20px;
+    text-align: left;
+}
+main p {
+    font-size: 24px;
+}
+.profile {
+    height: 400px;
+    float: right;
 }
