@@ -57,8 +57,6 @@ main p {
 form {
     max-width: 800px;
     padding: 20px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
 }
 label {
     display: block;
@@ -73,12 +71,12 @@ input, textarea {
 }
 button {
     padding: 10px 15px;
-    background-color: #5cb85c;
+    background-color: #707078;
     color: white;
     border: none;
     border-radius: 4px;
     cursor: pointer;
 }
 button:hover {
-    background-color: #4cae4c;
+    background-color: black;
 }
