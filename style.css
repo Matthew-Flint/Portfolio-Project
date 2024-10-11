@@ -44,4 +44,6 @@ main p {
 .profile {
     height: 400px;
     float: right;
+    margin-left: 20px;
+    margin-bottom: 20px;
 }
