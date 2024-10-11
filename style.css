@@ -47,3 +47,10 @@ main p {
     margin-left: 20px;
     margin-bottom: 20px;
 }
+#skills {
+    display: flex;
+}
+#skills img {
+    width: 100px;
+    height: auto;
+}
