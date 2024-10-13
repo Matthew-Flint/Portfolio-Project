@@ -80,3 +80,17 @@ button {
 button:hover {
     background-color: black;
 }
+#social {
+    display: flex;
+}
+.social-logo {
+    width: 200px;
+    height: auto;
+    margin-right: 20px;
+}
+#contact a {
+    text-decoration: none;
+}
+#contact a:hover {
+    color: red;
+}
