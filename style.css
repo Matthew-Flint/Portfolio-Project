@@ -48,11 +48,14 @@ main p {
     margin-bottom: 20px;
 }
 #skills {
-    display: flex;
+    display: inline-flex;
 }
 #skills img {
     width: 100px;
     height: auto;
+}
+#skills:hover {
+    background-color: redgit ;
 }
 form {
     max-width: 800px;
